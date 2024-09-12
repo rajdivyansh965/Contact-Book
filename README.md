@@ -23,6 +23,8 @@ A simple contact book application built using Python with Tkinter for the graphi
 
 **Prerequisites**:-
 
+**Tkinter module**
+
 **Python 3.x**
 
 **MySQL Server**
