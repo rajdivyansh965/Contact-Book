@@ -20,3 +20,11 @@ A simple contact book application built using Python with Tkinter for the graphi
 **Tkinter**: Python's standard GUI library for user interface creation.
 
 **MySQL**: The database system used to store contact information.
+
+**Prerequisites**:-
+
+**Python 3.x**
+
+**MySQL Server**
+
+**MySQL Connector for Python**
